@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using NUnit.Framework;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
-using Ploeh.AutoFixture.NUnit2;
 using Math = TestNinja.Fundamentals.Math;
 
 namespace TestNinja.UnitTests
